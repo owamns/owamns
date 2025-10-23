@@ -8,12 +8,12 @@
 
 <br/>
 
-<p align="center">
-  Hola 👋. [cite_start]Soy desarrollador Full Stack y estudiante de 9º ciclo de Ciencias de la Computación en la UNI[cite: 4, 40].
+<p align="justify">
+  Hola 👋. Soy desarrollador Full Stack y estudiante de 9º ciclo de Ciencias de la Computación en la UNI.
   <br/>
-  [cite_start]Mi "core" es el backend con <b>Java/Spring Boot</b> [cite: 21, 26, 45] [cite_start]y <b>Python</b>[cite: 5], pero disfruto construyendo el 'otro lado' del stack con <b>TypeScript, React y Next.js</b>.
+  Mi "core" es el backend con <b>Java/Spring Boot</b> y <b>Python</b>, pero disfruto construyendo el 'otro lado' del stack con <b>TypeScript, React y Next.js</b>.
   <br/>
-  [cite_start]Tengo experiencia práctica en entornos corporativos (Interbank, Luz del Sur) [cite: 9, 18][cite_start], donde he implementado pipelines <b>CI/CD</b> (Jenkins, Azure DevOps) [cite: 17, 22] [cite_start]y monitoreado logs con el <b>Stack ELK</b>[cite: 13].
+  Tengo experiencia práctica en entornos corporativos (Interbank, Luz del Sur), donde he implementado pipelines <b>CI/CD</b> (Jenkins, Azure DevOps) y monitoreado logs con el <b>Stack ELK</b>.
 </p>
 
 <p align="center">
